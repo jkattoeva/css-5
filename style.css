@@ -1,0 +1,18 @@
+.text-black
+{
+  color: black;
+  background-color: coral;
+  text-align: center;
+}
+#example-1
+{
+  color: black;
+  background-color: chocolate;
+  text-align: right;
+}
+#example-2
+{
+  color: black;
+  background-color: darkkhaki;
+  text-align: left;
+}
